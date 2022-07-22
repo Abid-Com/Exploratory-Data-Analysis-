@@ -1,0 +1,43 @@
+# PROJECTS NAME:   ZOMATO EXPLORATORY DATA ANALYSIS USING MACHINE LEARNING 
+# USED TECHNOLOGY:  
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.offline import iplot
+%matplotlib inline 
+import warnings
+warnings.filterwarnings('ignore')
+DATA SET DETAILS:  
+   url:         https://www.zomato.com/bangalore/jalsa-banasha..
+   address      942, 21st Main Road, 2nd Stage, Banashankari
+   name         Jalsa
+   online_order  Yes/No
+   book_table    Yes/No
+   rate           4.1/5
+   votes         775
+   phone          080 42297555\r\n+91 9743772233
+   location       Banashankari
+  rest_type	        Casual Dining/Quick Bites
+  dish_liked       Pasta, Lunch Buffet, Masala Papad, Paneer Laja
+  cuisines         North Indian, Mughlai, Chinese/South Indian, North Indian
+  approx_cost(for two people) 
+  reviews_list
+  menu_item	
+  listed_in(type)
+  listed_in(city)
+  
+  About Zomato:
+        Zomato is an Indian restaurant search and discovery service founded in 2008 by Deepinder Goyal and Pankaj Chaddah. It currently operates in 24 countries. It provides information and reviews of restaurants, including images of menus where the restaurant does not have its own website and also online delivery.
+
+Data Context:
+    The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of restaurants at different places in Bengaluru. This Zomato data aims at analyzing demography of the location. Most importantly it will help new restaurants in deciding their theme, menus, cuisine, cost, etc for a particular location. It also aims at finding similarity between neighborhoods of Bengaluru on the basis of food.
+    
+    
+  
+  
+   
+
+       
